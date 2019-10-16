@@ -1,0 +1,23 @@
+#Header {
+	border: 8px;
+	width: 500px	
+
+}
+
+#Content{
+		border: 8px;
+		margin-left: 20px;
+}
+
+#Header h1 {
+	font-size: 60px;
+	font-family: "Passion One";
+	color: lightblue;
+	font-weight: bold;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+
+}
